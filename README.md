@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0011-container-with-most-water) |
+| [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
@@ -17,15 +18,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 ## String
@@ -63,4 +67,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
