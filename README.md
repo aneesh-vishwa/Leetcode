@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
@@ -23,18 +24,21 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 ## String
