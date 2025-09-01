@@ -43,6 +43,7 @@
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aneesh-vishwa/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
 |  |
@@ -113,6 +115,7 @@
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aneesh-vishwa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aneesh-vishwa/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aneesh-vishwa/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/aneesh-vishwa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
