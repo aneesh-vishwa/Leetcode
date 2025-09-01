@@ -31,6 +31,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aneesh-vishwa/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aneesh-vishwa/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aneesh-vishwa/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -197,6 +198,7 @@
 | [0020-valid-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/aneesh-vishwa/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/aneesh-vishwa/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -508,6 +510,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -621,6 +624,7 @@
 | [0048-rotate-image](https://github.com/aneesh-vishwa/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aneesh-vishwa/Leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -682,6 +686,7 @@
 | [0039-combination-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aneesh-vishwa/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 ## Interactive
 |  |
 | ------- |
