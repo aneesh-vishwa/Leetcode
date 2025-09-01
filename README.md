@@ -487,4 +487,8 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1656-count-good-triplets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aneesh-vishwa/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
