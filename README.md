@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aneesh-vishwa/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/aneesh-vishwa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aneesh-vishwa/Leetcode/tree/master/0455-assign-cookies) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aneesh-vishwa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0152-maximum-product-subarray) |
