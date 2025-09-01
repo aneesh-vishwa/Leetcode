@@ -55,6 +55,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aneesh-vishwa/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2227-sum-of-subarray-ranges](https://github.com/aneesh-vishwa/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -463,4 +464,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aneesh-vishwa/Leetcode/tree/master/0146-lru-cache) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
