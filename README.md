@@ -270,6 +270,7 @@
 | [0066-plus-one](https://github.com/aneesh-vishwa/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aneesh-vishwa/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aneesh-vishwa/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
@@ -307,6 +308,7 @@
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aneesh-vishwa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -510,6 +512,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0100-same-tree) |
@@ -570,6 +573,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0100-same-tree) |
@@ -625,6 +629,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
