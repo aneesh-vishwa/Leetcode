@@ -148,6 +148,7 @@
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aneesh-vishwa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -170,6 +171,7 @@
 | [0242-valid-anagram](https://github.com/aneesh-vishwa/Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/aneesh-vishwa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aneesh-vishwa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -387,6 +389,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/aneesh-vishwa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aneesh-vishwa/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
