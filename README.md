@@ -96,6 +96,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aneesh-vishwa/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aneesh-vishwa/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aneesh-vishwa/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -253,6 +254,7 @@
 | [0061-rotate-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aneesh-vishwa/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aneesh-vishwa/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -286,6 +288,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aneesh-vishwa/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aneesh-vishwa/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aneesh-vishwa/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
@@ -441,4 +444,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aneesh-vishwa/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aneesh-vishwa/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
