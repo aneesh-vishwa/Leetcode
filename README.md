@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
+| [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 | [0735-asteroid-collision](https://github.com/aneesh-vishwa/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
@@ -117,6 +118,7 @@
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aneesh-vishwa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -258,6 +260,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aneesh-vishwa/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
@@ -275,4 +278,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aneesh-vishwa/Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
