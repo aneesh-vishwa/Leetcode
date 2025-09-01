@@ -101,6 +101,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -197,6 +199,7 @@
 | [0110-balanced-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -217,6 +220,7 @@
 | [0110-balanced-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
