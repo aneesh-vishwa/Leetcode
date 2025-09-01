@@ -662,6 +662,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/aneesh-vishwa/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aneesh-vishwa/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
