@@ -354,6 +354,7 @@
 | [0210-course-schedule-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aneesh-vishwa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/aneesh-vishwa/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aneesh-vishwa/Leetcode/tree/master/0733-flood-fill) |
@@ -390,6 +391,7 @@
 | [0130-surrounded-regions](https://github.com/aneesh-vishwa/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aneesh-vishwa/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/aneesh-vishwa/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/aneesh-vishwa/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aneesh-vishwa/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -438,6 +441,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/aneesh-vishwa/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Trie
 |  |
