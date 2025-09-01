@@ -359,6 +359,7 @@
 | [0061-rotate-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aneesh-vishwa/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -596,6 +597,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/aneesh-vishwa/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aneesh-vishwa/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aneesh-vishwa/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0141-linked-list-cycle) |
