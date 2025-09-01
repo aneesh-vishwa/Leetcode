@@ -32,6 +32,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/aneesh-vishwa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aneesh-vishwa/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/aneesh-vishwa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aneesh-vishwa/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
