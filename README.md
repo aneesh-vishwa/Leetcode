@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aneesh-vishwa/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0057-insert-interval) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aneesh-vishwa/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
