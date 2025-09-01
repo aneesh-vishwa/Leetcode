@@ -91,12 +91,14 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
