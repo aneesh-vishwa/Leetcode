@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -121,6 +122,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0141-linked-list-cycle) |
