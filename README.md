@@ -114,6 +114,7 @@
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
 | [3483-alternating-groups-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
 | ------- |
