@@ -316,6 +316,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/aneesh-vishwa/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -650,4 +651,8 @@
 | [0039-combination-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aneesh-vishwa/Leetcode/tree/master/0078-subsets) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aneesh-vishwa/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
