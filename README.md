@@ -78,6 +78,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aneesh-vishwa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0436-find-right-interval) |
@@ -248,6 +249,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aneesh-vishwa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/aneesh-vishwa/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -369,6 +371,7 @@
 | [0264-ugly-number-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/aneesh-vishwa/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/aneesh-vishwa/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -590,6 +593,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/aneesh-vishwa/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aneesh-vishwa/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -920,4 +924,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aneesh-vishwa/Leetcode/tree/master/0062-unique-paths) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
