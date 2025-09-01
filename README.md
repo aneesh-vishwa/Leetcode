@@ -302,6 +302,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/aneesh-vishwa/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/aneesh-vishwa/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -385,6 +386,7 @@
 | [0048-rotate-image](https://github.com/aneesh-vishwa/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aneesh-vishwa/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aneesh-vishwa/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aneesh-vishwa/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aneesh-vishwa/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/aneesh-vishwa/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aneesh-vishwa/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0136-single-number) |
@@ -533,6 +536,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aneesh-vishwa/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/aneesh-vishwa/Leetcode/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aneesh-vishwa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
