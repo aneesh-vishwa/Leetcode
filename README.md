@@ -420,6 +420,7 @@
 | [0264-ugly-number-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aneesh-vishwa/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aneesh-vishwa/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aneesh-vishwa/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/aneesh-vishwa/Leetcode/tree/master/0441-arranging-coins) |
@@ -451,6 +452,7 @@
 | [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/aneesh-vishwa/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -496,6 +498,7 @@
 | [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/aneesh-vishwa/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aneesh-vishwa/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
