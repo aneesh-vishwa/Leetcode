@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +159,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/aneesh-vishwa/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0189-rotate-array) |
