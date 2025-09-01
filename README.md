@@ -111,6 +111,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/aneesh-vishwa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aneesh-vishwa/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -136,6 +137,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
@@ -159,6 +161,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aneesh-vishwa/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
 ## Counting Sort
