@@ -311,6 +311,7 @@
 | [0013-roman-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/0049-group-anagrams) |
@@ -467,6 +468,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0053-maximum-subarray) |
@@ -1008,6 +1010,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aneesh-vishwa/Leetcode/tree/master/0078-subsets) |
