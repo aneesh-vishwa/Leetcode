@@ -89,6 +89,7 @@
 | [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/aneesh-vishwa/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aneesh-vishwa/Leetcode/tree/master/0735-asteroid-collision) |
@@ -182,6 +183,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aneesh-vishwa/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aneesh-vishwa/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0924-fair-candy-swap](https://github.com/aneesh-vishwa/Leetcode/tree/master/0924-fair-candy-swap) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -195,6 +197,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aneesh-vishwa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aneesh-vishwa/Leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -237,6 +240,7 @@
 | [0496-next-greater-element-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0924-fair-candy-swap](https://github.com/aneesh-vishwa/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -565,6 +569,7 @@
 | [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/aneesh-vishwa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aneesh-vishwa/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
