@@ -93,6 +93,7 @@
 | [0463-island-perimeter](https://github.com/aneesh-vishwa/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/aneesh-vishwa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/aneesh-vishwa/Leetcode/tree/master/0506-relative-ranks) |
@@ -599,6 +600,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aneesh-vishwa/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/aneesh-vishwa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aneesh-vishwa/Leetcode/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aneesh-vishwa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -966,6 +968,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/aneesh-vishwa/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/aneesh-vishwa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aneesh-vishwa/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/aneesh-vishwa/Leetcode/tree/master/0854-making-a-large-island) |
