@@ -296,6 +296,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0782-jewels-and-stones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0924-fair-candy-swap](https://github.com/aneesh-vishwa/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -351,6 +352,7 @@
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/aneesh-vishwa/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0782-jewels-and-stones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
