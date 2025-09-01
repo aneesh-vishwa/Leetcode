@@ -432,6 +432,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/aneesh-vishwa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aneesh-vishwa/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -467,6 +468,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aneesh-vishwa/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aneesh-vishwa/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aneesh-vishwa/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1113,4 +1115,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
