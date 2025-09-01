@@ -26,6 +26,7 @@
 | [0735-asteroid-collision](https://github.com/aneesh-vishwa/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aneesh-vishwa/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aneesh-vishwa/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
