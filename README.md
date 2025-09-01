@@ -173,6 +173,7 @@
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -430,6 +431,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aneesh-vishwa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
