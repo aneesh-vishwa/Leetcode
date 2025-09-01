@@ -80,6 +80,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aneesh-vishwa/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -187,6 +188,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aneesh-vishwa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aneesh-vishwa/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
