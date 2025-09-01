@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/aneesh-vishwa/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aneesh-vishwa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
