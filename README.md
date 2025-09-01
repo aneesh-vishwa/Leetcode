@@ -130,6 +130,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/aneesh-vishwa/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -240,6 +241,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aneesh-vishwa/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -300,6 +302,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/aneesh-vishwa/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -441,6 +444,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aneesh-vishwa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
