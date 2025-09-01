@@ -500,6 +500,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aneesh-vishwa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -524,6 +525,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aneesh-vishwa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -557,6 +559,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aneesh-vishwa/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aneesh-vishwa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -577,6 +580,7 @@
 | [0130-surrounded-regions](https://github.com/aneesh-vishwa/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/aneesh-vishwa/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
