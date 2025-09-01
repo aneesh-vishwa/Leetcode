@@ -271,6 +271,7 @@
 | [0013-roman-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aneesh-vishwa/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/aneesh-vishwa/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aneesh-vishwa/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aneesh-vishwa/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0070-climbing-stairs) |
@@ -310,6 +311,7 @@
 | [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aneesh-vishwa/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aneesh-vishwa/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -754,4 +756,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/aneesh-vishwa/Leetcode/tree/master/0164-maximum-gap) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aneesh-vishwa/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
