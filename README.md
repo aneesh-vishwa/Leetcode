@@ -22,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/aneesh-vishwa/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aneesh-vishwa/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/0056-merge-intervals) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0015-3sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aneesh-vishwa/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aneesh-vishwa/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -187,6 +189,7 @@
 | [0013-roman-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/aneesh-vishwa/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -226,6 +229,7 @@
 | [0020-valid-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/aneesh-vishwa/Leetcode/tree/master/0187-repeated-dna-sequences) |
