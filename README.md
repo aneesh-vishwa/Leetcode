@@ -45,6 +45,7 @@
 | [0283-move-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/aneesh-vishwa/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -247,6 +248,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aneesh-vishwa/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/aneesh-vishwa/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -388,6 +390,7 @@
 | [0187-repeated-dna-sequences](https://github.com/aneesh-vishwa/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/aneesh-vishwa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0713-subarray-product-less-than-k) |
