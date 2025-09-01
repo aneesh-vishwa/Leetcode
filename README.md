@@ -72,6 +72,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/aneesh-vishwa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
 | [3483-alternating-groups-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/aneesh-vishwa/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3639-zero-array-transformation-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Tree
 |  |
 | ------- |
