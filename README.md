@@ -44,6 +44,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aneesh-vishwa/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/aneesh-vishwa/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aneesh-vishwa/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -98,6 +99,7 @@
 | [0496-next-greater-element-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/aneesh-vishwa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -143,6 +145,7 @@
 | [0231-power-of-two](https://github.com/aneesh-vishwa/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aneesh-vishwa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aneesh-vishwa/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -274,6 +277,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aneesh-vishwa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aneesh-vishwa/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aneesh-vishwa/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -283,6 +287,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aneesh-vishwa/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
