@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/aneesh-vishwa/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aneesh-vishwa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aneesh-vishwa/Leetcode/tree/master/0075-sort-colors) |
@@ -225,6 +226,7 @@
 | [0002-add-two-numbers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aneesh-vishwa/Leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/aneesh-vishwa/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aneesh-vishwa/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0189-rotate-array) |
