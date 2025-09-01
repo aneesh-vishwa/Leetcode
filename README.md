@@ -89,6 +89,7 @@
 | [1656-count-good-triplets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aneesh-vishwa/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2227-sum-of-subarray-ranges](https://github.com/aneesh-vishwa/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aneesh-vishwa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -115,6 +116,7 @@
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
@@ -347,6 +349,7 @@
 | [0239-sliding-window-maximum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aneesh-vishwa/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## String Matching
 |  |
 | ------- |
