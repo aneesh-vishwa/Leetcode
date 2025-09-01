@@ -28,6 +28,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aneesh-vishwa/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -42,12 +43,14 @@
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aneesh-vishwa/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/aneesh-vishwa/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0812-rotate-string) |
 ## Two Pointers
