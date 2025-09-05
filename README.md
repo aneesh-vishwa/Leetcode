@@ -131,6 +131,7 @@
 | [1222-remove-covered-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aneesh-vishwa/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/aneesh-vishwa/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aneesh-vishwa/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aneesh-vishwa/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -191,6 +192,7 @@
 | [0611-valid-triangle-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/aneesh-vishwa/Leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/aneesh-vishwa/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -322,6 +324,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/aneesh-vishwa/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/aneesh-vishwa/Leetcode/tree/master/1813-maximum-erasure-value) |
