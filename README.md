@@ -506,6 +506,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aneesh-vishwa/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -1044,6 +1045,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1656-count-good-triplets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aneesh-vishwa/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Database
 |  |
@@ -1132,6 +1134,7 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aneesh-vishwa/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Geometry
 |  |
 | ------- |
