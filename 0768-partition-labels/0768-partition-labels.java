@@ -5,13 +5,13 @@ class Solution {
         int[] last_occ = new int[26];
         Arrays.fill(first_occ , -1);
         Arrays.fill(last_occ , -1);
-        int count_inter = 0;
+        // int count_inter = 0;
 
         char[] ch_arr = s.toCharArray();
         for(int i = 0 ; i < ch_arr.length ; i++){
             if(first_occ[ch_arr[i] - 'a'] == -1){
                 first_occ[ch_arr[i] - 'a'] = i;
-                count_inter++;
+                // count_inter++;
             }
         }
         for(int i = 0 ; i < ch_arr.length ; i++){
