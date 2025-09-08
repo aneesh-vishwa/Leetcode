@@ -53,6 +53,7 @@
 | [0135-candy](https://github.com/aneesh-vishwa/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/aneesh-vishwa/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aneesh-vishwa/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -280,6 +281,7 @@
 | [0127-word-ladder](https://github.com/aneesh-vishwa/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/aneesh-vishwa/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/aneesh-vishwa/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aneesh-vishwa/Leetcode/tree/master/0146-lru-cache) |
@@ -353,6 +355,7 @@
 | [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aneesh-vishwa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aneesh-vishwa/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/aneesh-vishwa/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/aneesh-vishwa/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -530,6 +533,7 @@
 | [0118-pascals-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aneesh-vishwa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/aneesh-vishwa/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aneesh-vishwa/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aneesh-vishwa/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0213-house-robber-ii) |
@@ -567,6 +571,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/aneesh-vishwa/Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -1047,6 +1052,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/aneesh-vishwa/Leetcode/tree/master/0139-word-break) |
 ## Shortest Path
 |  |
 | ------- |
