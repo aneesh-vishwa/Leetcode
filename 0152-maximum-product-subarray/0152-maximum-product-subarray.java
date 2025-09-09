@@ -7,6 +7,8 @@ class Solution {
         int max_suffix = Integer.MIN_VALUE;
         int l = 0;
         int r = n-1;
+
+        // finding the prefix prod maximum and suffix prod maximum
         
         while(l<n){
             prefix = prefix * nums[l];
