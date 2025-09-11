@@ -6,7 +6,7 @@ class Solution {
             Arrays.sort(grid[i]);
         }
         int sum = 0;
-        for(int i = n - 1 ; i >= 0 ; i--){
+        for(int i = 0 ; i < n ; i++){
             int largest = 0;
             for(int j = 0 ; j < m ; j++){
                 largest = Math.max(largest , grid[j][i]);
