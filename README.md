@@ -244,6 +244,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aneesh-vishwa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -394,6 +395,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aneesh-vishwa/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/aneesh-vishwa/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/aneesh-vishwa/Leetcode/tree/master/3396-valid-word) |
