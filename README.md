@@ -159,6 +159,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aneesh-vishwa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -246,6 +247,7 @@
 | [1222-remove-covered-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aneesh-vishwa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -653,6 +655,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aneesh-vishwa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aneesh-vishwa/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -685,6 +688,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/3226-minimum-number-game) |
 ## String Matching
 |  |
@@ -1045,6 +1049,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aneesh-vishwa/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/aneesh-vishwa/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/aneesh-vishwa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aneesh-vishwa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
