@@ -416,6 +416,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/aneesh-vishwa/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/aneesh-vishwa/Leetcode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aneesh-vishwa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -515,6 +516,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aneesh-vishwa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/aneesh-vishwa/Leetcode/tree/master/3830-find-closest-person) |
@@ -1187,8 +1189,13 @@
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aneesh-vishwa/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
