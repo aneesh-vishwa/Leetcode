@@ -350,6 +350,7 @@
 | [0940-fruit-into-baskets](https://github.com/aneesh-vishwa/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/aneesh-vishwa/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/aneesh-vishwa/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -412,6 +413,7 @@
 | [0782-jewels-and-stones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/aneesh-vishwa/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
