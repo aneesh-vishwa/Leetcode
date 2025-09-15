@@ -4,27 +4,45 @@ class Solution {
         for (int i = 0; i < brokenLetters.length(); i++) {
             set.add(brokenLetters.charAt(i));
         }
-        // String[] words = text.split(" ");
-        // int n = words.length;
         int count = 0;
-        int n = text.length();
-        boolean flag = false;
-        for (int i = 0; i < n; i++) {
-            char ch = text.charAt(i);
+        String[] words = text.split(" ");
+        int n = words.length;
 
-            if (ch == ' ') {
-                if (!flag) {
-                    count++;
+        for(int i = 0 ; i < n ; i++){
+            String current = words[i];
+            boolean flag = false;
+            for(int j = 0 ; j < current.length() ; j++){
+                if(set.contains(current.charAt(j))){
+                    flag = true;
+                    break;
                 }
-                flag = false;
             }
-            else if (set.contains(ch)) {
-                flag = true;
+            if(!flag){
+                count++;
             }
+            
         }
-        if (!flag) {
-            count++;
-        }
+
+        
+        
+        // int n = text.length();
+        // boolean flag = false;
+        // for (int i = 0; i < n; i++) {
+        //     char ch = text.charAt(i);
+
+        //     if (ch == ' ') {
+        //         if (!flag) {
+        //             count++;
+        //         }
+        //         flag = false;
+        //     }
+        //     else if (set.contains(ch)) {
+        //         flag = true;
+        //     }
+        // }
+        // if (!flag) {
+        //     count++;
+        // }
         return count;
     }
 }
