@@ -1057,6 +1057,7 @@
 | [0801-is-graph-bipartite](https://github.com/aneesh-vishwa/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aneesh-vishwa/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/aneesh-vishwa/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2379-maximum-total-importance-of-roads](https://github.com/aneesh-vishwa/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Matrix
