@@ -172,6 +172,7 @@
 | [3194-find-words-containing-character](https://github.com/aneesh-vishwa/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/aneesh-vishwa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/aneesh-vishwa/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
@@ -285,6 +286,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aneesh-vishwa/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/aneesh-vishwa/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aneesh-vishwa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aneesh-vishwa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -363,6 +365,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/aneesh-vishwa/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/aneesh-vishwa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/aneesh-vishwa/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aneesh-vishwa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aneesh-vishwa/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
