@@ -126,6 +126,7 @@
 | [0945-snakes-and-ladders](https://github.com/aneesh-vishwa/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/aneesh-vishwa/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/aneesh-vishwa/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aneesh-vishwa/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -206,6 +207,7 @@
 | [0621-task-scheduler](https://github.com/aneesh-vishwa/Leetcode/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/aneesh-vishwa/Leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/aneesh-vishwa/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/aneesh-vishwa/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -256,6 +258,7 @@
 | [0611-valid-triangle-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/aneesh-vishwa/Leetcode/tree/master/0621-task-scheduler) |
 | [0924-fair-candy-swap](https://github.com/aneesh-vishwa/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1018-largest-perimeter-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1222-remove-covered-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1464-reduce-array-size-to-the-half](https://github.com/aneesh-vishwa/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -521,6 +524,7 @@
 | [0441-arranging-coins](https://github.com/aneesh-vishwa/Leetcode/tree/master/0441-arranging-coins) |
 | [0830-largest-triangle-area](https://github.com/aneesh-vishwa/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
