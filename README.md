@@ -147,6 +147,7 @@
 | [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/aneesh-vishwa/Leetcode/tree/master/1656-count-good-triplets) |
+| [1752-arithmetic-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/aneesh-vishwa/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/aneesh-vishwa/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aneesh-vishwa/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -263,6 +264,7 @@
 | [1222-remove-covered-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1464-reduce-array-size-to-the-half](https://github.com/aneesh-vishwa/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1752-arithmetic-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/aneesh-vishwa/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -365,6 +367,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/aneesh-vishwa/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1752-arithmetic-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/aneesh-vishwa/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
