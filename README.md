@@ -186,6 +186,7 @@
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aneesh-vishwa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
