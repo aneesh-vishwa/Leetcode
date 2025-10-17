@@ -192,6 +192,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/aneesh-vishwa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aneesh-vishwa/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4008-restore-finishing-order](https://github.com/aneesh-vishwa/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Greedy
 |  |
 | ------- |
@@ -388,6 +389,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aneesh-vishwa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aneesh-vishwa/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aneesh-vishwa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/aneesh-vishwa/Leetcode/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
 | ------- |
