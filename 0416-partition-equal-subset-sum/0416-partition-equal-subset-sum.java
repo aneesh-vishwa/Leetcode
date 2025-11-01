@@ -19,13 +19,13 @@ class Solution {
             dp[col][0] = true;//for zeroth col
         }
 
-        for(int i = 1 ; i <= n ; i++){//for nums[] array 
+        for(int i = 0 ; i < n ; i++){//for nums[] array 
             for(int current_target = 1 ; current_target <= target ; current_target++){//for target 1 , 2 , 3 , 4 ,........ target
-                if(nums[i - 1] <= current_target){
-                    dp[i][current_target] = dp[i - 1][current_target - nums[i - 1]] || dp[i - 1][current_target];
+                if(nums[i] <= current_target){
+                    dp[i + 1][current_target] = dp[i][current_target - nums[i]] || dp[i][current_target];
                 }
                 else{
-                    dp[i][current_target] = dp[i - 1][current_target];
+                    dp[i + 1][current_target] = dp[i][current_target];
                 }
             }
             
