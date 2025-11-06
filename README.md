@@ -87,6 +87,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -217,6 +218,7 @@
 | [0316-remove-duplicate-letters](https://github.com/aneesh-vishwa/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/aneesh-vishwa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/aneesh-vishwa/Leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aneesh-vishwa/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aneesh-vishwa/Leetcode/tree/master/0455-assign-cookies) |
@@ -649,6 +651,7 @@
 | [0322-coin-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/aneesh-vishwa/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aneesh-vishwa/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -714,6 +717,7 @@
 | [0367-valid-perfect-square](https://github.com/aneesh-vishwa/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aneesh-vishwa/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/aneesh-vishwa/Leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/aneesh-vishwa/Leetcode/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -924,6 +928,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aneesh-vishwa/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
