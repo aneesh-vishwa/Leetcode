@@ -1,0 +1,13 @@
+# Write your MySQL query statement below
+-- SELECT QUERY_NAME , ROUND(AVG(RATING/POSITION) , 2)  AS QUALITY , 
+-- ROUND(COUNT(RATING < 3) OVER(PARTITION BY QUERY_NAME)/COUNT(*) OVER(PARTITION BY QUERY_NAME)*100 , 2) AS POOR_QUERY_PERCENTAGE 
+-- FROM QUERIES;
+SELECT
+  query_name,
+  ROUND(AVG(rating / position), 2) AS quality,
+  ROUND(100 * SUM(rating < 3) / COUNT(*), 2) AS poor_query_percentage
+FROM Queries
+GROUP BY query_name;
+
+
+-- OVER (PARTITION BY QUERY_NAME) IF OVER() THEN NO GROUP BY
