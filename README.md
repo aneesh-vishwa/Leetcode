@@ -226,6 +226,7 @@
 | [0561-array-partition](https://github.com/aneesh-vishwa/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/aneesh-vishwa/Leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/aneesh-vishwa/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/aneesh-vishwa/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aneesh-vishwa/Leetcode/tree/master/0890-lemonade-change) |
@@ -460,6 +461,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/aneesh-vishwa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/aneesh-vishwa/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/aneesh-vishwa/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/aneesh-vishwa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0812-rotate-string) |
@@ -660,6 +662,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/aneesh-vishwa/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aneesh-vishwa/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -871,6 +874,7 @@
 | [0402-remove-k-digits](https://github.com/aneesh-vishwa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aneesh-vishwa/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/aneesh-vishwa/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/1078-remove-outermost-parentheses) |
