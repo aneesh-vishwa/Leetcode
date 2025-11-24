@@ -138,6 +138,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/aneesh-vishwa/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/aneesh-vishwa/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/aneesh-vishwa/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aneesh-vishwa/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -625,6 +626,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aneesh-vishwa/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
