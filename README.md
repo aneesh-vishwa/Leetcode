@@ -393,6 +393,7 @@
 | [0924-fair-candy-swap](https://github.com/aneesh-vishwa/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/aneesh-vishwa/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aneesh-vishwa/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -578,6 +579,7 @@
 | [0830-largest-triangle-area](https://github.com/aneesh-vishwa/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/aneesh-vishwa/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
