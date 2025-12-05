@@ -197,6 +197,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/aneesh-vishwa/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -606,6 +607,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/aneesh-vishwa/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneesh-vishwa/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -956,6 +958,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aneesh-vishwa/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2529-range-product-queries-of-powers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/aneesh-vishwa/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Tree
 |  |
