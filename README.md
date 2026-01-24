@@ -164,6 +164,7 @@
 | [1752-arithmetic-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/aneesh-vishwa/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/aneesh-vishwa/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aneesh-vishwa/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -239,6 +240,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/aneesh-vishwa/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/aneesh-vishwa/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -296,6 +298,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/aneesh-vishwa/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1752-arithmetic-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/aneesh-vishwa/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -544,6 +547,7 @@
 | [0768-partition-labels](https://github.com/aneesh-vishwa/Leetcode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/aneesh-vishwa/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0908-middle-of-the-linked-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/aneesh-vishwa/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
