@@ -591,6 +591,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/aneesh-vishwa/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/aneesh-vishwa/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -689,6 +690,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/aneesh-vishwa/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/aneesh-vishwa/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aneesh-vishwa/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1346,6 +1348,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/1025-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aneesh-vishwa/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -1358,5 +1361,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/aneesh-vishwa/Leetcode/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
