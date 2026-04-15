@@ -187,6 +187,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aneesh-vishwa/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/aneesh-vishwa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/aneesh-vishwa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aneesh-vishwa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -496,6 +497,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/aneesh-vishwa/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aneesh-vishwa/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aneesh-vishwa/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/aneesh-vishwa/Leetcode/tree/master/3194-find-words-containing-character) |
