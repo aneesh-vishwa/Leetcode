@@ -409,6 +409,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aneesh-vishwa/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aneesh-vishwa/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aneesh-vishwa/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -926,6 +927,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/aneesh-vishwa/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aneesh-vishwa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0937-online-stock-span](https://github.com/aneesh-vishwa/Leetcode/tree/master/0937-online-stock-span) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1026,6 +1028,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aneesh-vishwa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -1074,6 +1077,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/aneesh-vishwa/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/aneesh-vishwa/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aneesh-vishwa/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Tree
@@ -1118,6 +1122,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aneesh-vishwa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -1162,6 +1167,7 @@
 | [1073-number-of-enclaves](https://github.com/aneesh-vishwa/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aneesh-vishwa/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/aneesh-vishwa/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
