@@ -173,6 +173,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aneesh-vishwa/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aneesh-vishwa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/aneesh-vishwa/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -419,6 +420,7 @@
 | [1752-arithmetic-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/aneesh-vishwa/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aneesh-vishwa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aneesh-vishwa/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1024,6 +1026,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aneesh-vishwa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1115,6 +1118,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aneesh-vishwa/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aneesh-vishwa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
