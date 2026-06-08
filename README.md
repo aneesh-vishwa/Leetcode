@@ -170,6 +170,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aneesh-vishwa/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/aneesh-vishwa/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1980-find-unique-binary-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aneesh-vishwa/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aneesh-vishwa/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/aneesh-vishwa/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -420,6 +421,7 @@
 | [1635-number-of-good-pairs](https://github.com/aneesh-vishwa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1752-arithmetic-subarrays](https://github.com/aneesh-vishwa/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/aneesh-vishwa/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aneesh-vishwa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aneesh-vishwa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -496,6 +498,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aneesh-vishwa/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aneesh-vishwa/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aneesh-vishwa/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1980-find-unique-binary-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aneesh-vishwa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aneesh-vishwa/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1320,6 +1323,7 @@
 | [0079-word-search](https://github.com/aneesh-vishwa/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/aneesh-vishwa/Leetcode/tree/master/0113-path-sum-ii) |
+| [1980-find-unique-binary-string](https://github.com/aneesh-vishwa/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneesh-vishwa/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Interactive
 |  |
